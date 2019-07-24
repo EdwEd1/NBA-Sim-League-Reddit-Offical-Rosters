@@ -24,7 +24,7 @@
           "dpidsExcluded": []
         },
         {
-          "tid": 23,
+          "tid": 16,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -44,6 +44,131 @@
       ],
       "season": 2020,
       "eid": 0
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/MIA/2020\">Heat</a> traded <a href=\"/l/21/player/54\">Justise Winslow</a>, <a href=\"/l/21/player/450\">Goran Dragic</a>, <a href=\"/l/21/player/599\">Bam Adebayo</a>, and a 2020 1st round pick (MIA) to the <a href=\"/l/21/roster/TOR/2020\">Raptors</a> for <a href=\"/l/21/player/512\">Kyle Lowry</a>.",
+      "pids": [
+        54,
+        450,
+        599,
+        512
+      ],
+      "tids": [
+        15,
+        27
+      ],
+      "season": 2020,
+      "eid": 1
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/21/player/526\">Gordon Hayward</a> to the <a href=\"/l/21/roster/MEM/2020\">Grizzlies</a> for <a href=\"/l/21/player/237\">Andre Iguodala</a>, <a href=\"/l/21/player/258\">Solomon Hill</a>, and a 2022 2nd round pick (MEM).",
+      "pids": [
+        526,
+        237,
+        258
+      ],
+      "tids": [
+        1,
+        14
+      ],
+      "season": 2020,
+      "eid": 2
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/21/player/137\">Kemba Walker</a> to the <a href=\"/l/21/roster/ORL/2020\">Magic</a> for <a href=\"/l/21/player/192\">Evan Fournier</a>, <a href=\"/l/21/player/566\">Jonathan Isaac</a>, <a href=\"/l/21/player/597\">Mohamed Bamba</a>, a 2020 1st round pick (ORL), and a 2021 1st round pick (ORL).",
+      "pids": [
+        137,
+        192,
+        566,
+        597
+      ],
+      "tids": [
+        1,
+        21
+      ],
+      "season": 2020,
+      "eid": 3
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/WAS/2020\">Wizards</a> traded <a href=\"/l/21/player/536\">Bradley Beal</a> to the <a href=\"/l/21/roster/MIA/2020\">Heat</a> for <a href=\"/l/21/player/65\">Kendrick Nunn</a>, <a href=\"/l/21/player/319\">James Johnson</a>, <a href=\"/l/21/player/438\">Tyler Herro</a>, <a href=\"/l/21/player/530\">Yante Maten</a>, <a href=\"/l/21/player/651\">Derrick Jones Jr.</a>, a 2022 1st round pick (MIA), a 2022 2nd round pick (MIA), and a 2023 1st round pick (MIA).",
+      "pids": [
+        536,
+        65,
+        319,
+        438,
+        530,
+        651
+      ],
+      "tids": [
+        29,
+        15
+      ],
+      "season": 2020,
+      "eid": 4
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/WAS/2020\">Wizards</a> traded <a href=\"/l/21/player/542\">John Wall</a>, a 2021 1st round pick (WAS), a 2022 2nd round pick (LAL), and a 2022 1st round pick (WAS) to the <a href=\"/l/21/roster/MEM/2020\">Grizzlies</a> for <a href=\"/l/21/player/181\">Jae Crowder</a>, <a href=\"/l/21/player/254\">Dwight Howard</a>, <a href=\"/l/21/player/443\">Miles Plumlee</a>, and <a href=\"/l/21/player/733\">Josh Jackson</a>.",
+      "pids": [
+        542,
+        181,
+        254,
+        443,
+        733
+      ],
+      "tids": [
+        29,
+        14
+      ],
+      "season": 2020,
+      "eid": 5
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/21/player/237\">Andre Iguodala</a>, <a href=\"/l/21/player/566\">Jonathan Isaac</a>, and a 2020 2nd round pick (BOS) to the <a href=\"/l/21/roster/TOR/2020\">Raptors</a> for <a href=\"/l/21/player/313\">Marc Gasol</a>.",
+      "pids": [
+        237,
+        566,
+        313
+      ],
+      "tids": [
+        1,
+        27
+      ],
+      "season": 2020,
+      "eid": 6
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/21/player/110\">Tacko Fall</a> to the <a href=\"/l/21/roster/TOR/2020\">Raptors</a> for nothing.",
+      "pids": [
+        110
+      ],
+      "tids": [
+        1,
+        27
+      ],
+      "season": 2020,
+      "eid": 7
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/21/roster/BOS/2020\">Celtics</a> traded <a href=\"/l/21/player/87\">Marcus Smart</a> to the <a href=\"/l/21/roster/MIL/2020\">Bucks</a> for <a href=\"/l/21/player/267\">George Hill</a>, <a href=\"/l/21/player/731\">D.J. Wilson</a>, and a 2022 2nd round pick (MIL).",
+      "pids": [
+        87,
+        267,
+        731
+      ],
+      "tids": [
+        1,
+        16
+      ],
+      "season": 2020,
+      "eid": 8
     }
   ],
   "teams": [
@@ -5411,7 +5536,36 @@
     {
       "key": "userTids",
       "value": [
-        1
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
       ]
     }
   ],
@@ -5441,7 +5595,7 @@
       "dpid": 2
     },
     {
-      "tid": 1,
+      "tid": 27,
       "originalTid": 1,
       "round": 2,
       "pick": 0,
@@ -5657,7 +5811,7 @@
       "dpid": 29
     },
     {
-      "tid": 15,
+      "tid": 27,
       "originalTid": 15,
       "round": 1,
       "pick": 0,
@@ -5753,7 +5907,7 @@
       "dpid": 41
     },
     {
-      "tid": 21,
+      "tid": 1,
       "originalTid": 21,
       "round": 1,
       "pick": 0,
@@ -6233,7 +6387,7 @@
       "dpid": 101
     },
     {
-      "tid": 21,
+      "tid": 1,
       "originalTid": 21,
       "round": 1,
       "pick": 0,
@@ -6361,7 +6515,7 @@
       "dpid": 117
     },
     {
-      "tid": 29,
+      "tid": 14,
       "originalTid": 29,
       "round": 1,
       "pick": 0,
@@ -6593,7 +6747,7 @@
       "dpid": 146
     },
     {
-      "tid": 29,
+      "tid": 14,
       "originalTid": 13,
       "round": 2,
       "pick": 0,
@@ -6609,7 +6763,7 @@
       "dpid": 148
     },
     {
-      "tid": 14,
+      "tid": 1,
       "originalTid": 14,
       "round": 2,
       "pick": 0,
@@ -6617,7 +6771,7 @@
       "dpid": 149
     },
     {
-      "tid": 15,
+      "tid": 29,
       "originalTid": 15,
       "round": 1,
       "pick": 0,
@@ -6625,7 +6779,7 @@
       "dpid": 150
     },
     {
-      "tid": 15,
+      "tid": 29,
       "originalTid": 15,
       "round": 2,
       "pick": 0,
@@ -6641,7 +6795,7 @@
       "dpid": 152
     },
     {
-      "tid": 16,
+      "tid": 1,
       "originalTid": 16,
       "round": 2,
       "pick": 0,
@@ -6841,7 +6995,7 @@
       "dpid": 177
     },
     {
-      "tid": 29,
+      "tid": 14,
       "originalTid": 29,
       "round": 1,
       "pick": 0,
@@ -7097,7 +7251,7 @@
       "dpid": 209
     },
     {
-      "tid": 15,
+      "tid": 29,
       "originalTid": 15,
       "round": 1,
       "pick": 0,
@@ -17970,7 +18124,7 @@
       "pid": 53
     },
     {
-      "tid": 15,
+      "tid": 27,
       "name": "Justise Winslow",
       "ratings": [
         {
@@ -18164,10 +18318,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        27
       ],
       "firstName": "Justise",
       "lastName": "Winslow",
@@ -20332,7 +20531,7 @@
       "pid": 64
     },
     {
-      "tid": 15,
+      "tid": 29,
       "name": "Kendrick Nunn",
       "ratings": [
         {
@@ -20525,10 +20724,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        29
       ],
       "firstName": "Kendrick",
       "lastName": "Nunn",
@@ -24915,7 +25159,7 @@
       "pid": 86
     },
     {
-      "tid": 1,
+      "tid": 16,
       "name": "Marcus Smart",
       "ratings": [
         {
@@ -25108,10 +25352,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        1
+        1,
+        16
       ],
       "firstName": "Marcus",
       "lastName": "Smart",
@@ -29682,7 +29971,7 @@
       "pid": 109
     },
     {
-      "tid": 1,
+      "tid": 27,
       "name": "Tacko Fall",
       "ratings": [
         {
@@ -29877,10 +30166,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        1
+        1,
+        27
       ],
       "firstName": "Tacko",
       "lastName": "Fall",
@@ -34933,7 +35267,7 @@
       "pid": 136
     },
     {
-      "tid": 1,
+      "tid": 21,
       "name": "Kemba Walker",
       "ratings": [
         {
@@ -35129,10 +35463,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        1
+        1,
+        21
       ],
       "firstName": "Kemba",
       "lastName": "Walker",
@@ -43463,7 +43842,7 @@
       "pid": 180
     },
     {
-      "tid": 14,
+      "tid": 29,
       "name": "Jae Crowder",
       "ratings": [
         {
@@ -43656,10 +44035,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        29
       ],
       "firstName": "Jae",
       "lastName": "Crowder",
@@ -45475,7 +45899,7 @@
       "pid": 191
     },
     {
-      "tid": 21,
+      "tid": 1,
       "name": "Evan Fournier",
       "ratings": [
         {
@@ -45668,10 +46092,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        1
       ],
       "firstName": "Evan",
       "lastName": "Fournier",
@@ -53841,7 +54310,7 @@
       "pid": 236
     },
     {
-      "tid": 14,
+      "tid": 27,
       "name": "Andre Iguodala",
       "ratings": [
         {
@@ -54039,10 +54508,100 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        1,
+        27
       ],
       "firstName": "Andre",
       "lastName": "Iguodala",
@@ -56968,7 +57527,7 @@
       "pid": 253
     },
     {
-      "tid": 14,
+      "tid": 29,
       "name": "Dwight Howard",
       "ratings": [
         {
@@ -57205,10 +57764,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        29
       ],
       "firstName": "Dwight",
       "lastName": "Howard",
@@ -57827,7 +58431,7 @@
       "pid": 257
     },
     {
-      "tid": 14,
+      "tid": 1,
       "name": "Solomon Hill",
       "ratings": [
         {
@@ -58018,10 +58622,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        1
       ],
       "firstName": "Solomon",
       "lastName": "Hill",
@@ -59631,7 +60280,7 @@
       "pid": 266
     },
     {
-      "tid": 16,
+      "tid": 1,
       "name": "George Hill",
       "ratings": [
         {
@@ -59824,10 +60473,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        1
       ],
       "firstName": "George",
       "lastName": "Hill",
@@ -68588,7 +69282,7 @@
       "pid": 312
     },
     {
-      "tid": 27,
+      "tid": 1,
       "name": "Marc Gasol",
       "ratings": [
         {
@@ -68795,10 +69489,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        1
       ],
       "firstName": "Marc",
       "lastName": "Gasol",
@@ -69745,7 +70484,7 @@
       "pid": 318
     },
     {
-      "tid": 15,
+      "tid": 29,
       "name": "James Johnson",
       "ratings": [
         {
@@ -69939,10 +70678,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        29
       ],
       "firstName": "James",
       "lastName": "Johnson",
@@ -92931,7 +93715,7 @@
       "pid": 437
     },
     {
-      "tid": 15,
+      "tid": 29,
       "name": "Tyler Herro",
       "ratings": [
         {
@@ -93122,10 +93906,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        29
       ],
       "firstName": "Tyler",
       "lastName": "Herro",
@@ -93863,7 +94692,7 @@
       "pid": 442
     },
     {
-      "tid": 14,
+      "tid": 29,
       "name": "Miles Plumlee",
       "ratings": [
         {
@@ -94068,10 +94897,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        29
       ],
       "firstName": "Miles",
       "lastName": "Plumlee",
@@ -95398,7 +96272,7 @@
       "pid": 449
     },
     {
-      "tid": 15,
+      "tid": 27,
       "name": "Goran Dragic",
       "ratings": [
         {
@@ -95596,10 +96470,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        27
       ],
       "firstName": "Goran",
       "lastName": "Dragic",
@@ -107886,7 +108805,7 @@
       "pid": 511
     },
     {
-      "tid": 27,
+      "tid": 15,
       "name": "Kyle Lowry",
       "ratings": [
         {
@@ -108081,10 +109000,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        15
       ],
       "firstName": "Kyle",
       "lastName": "Lowry",
@@ -110661,7 +111625,7 @@
       "pid": 525
     },
     {
-      "tid": 1,
+      "tid": 14,
       "name": "Gordon Hayward",
       "ratings": [
         {
@@ -110854,10 +111818,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 14,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        1
+        1,
+        14
       ],
       "firstName": "Gordon",
       "lastName": "Hayward",
@@ -111477,7 +112486,7 @@
       "pid": 529
     },
     {
-      "tid": 15,
+      "tid": 29,
       "name": "Yante Maten",
       "ratings": [
         {
@@ -111668,10 +112677,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        29
       ],
       "firstName": "Yante",
       "lastName": "Maten",
@@ -112729,7 +113783,7 @@
       "pid": 535
     },
     {
-      "tid": 29,
+      "tid": 15,
       "name": "Bradley Beal",
       "ratings": [
         {
@@ -112922,10 +113976,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        15
       ],
       "firstName": "Bradley",
       "lastName": "Beal",
@@ -113829,7 +114928,7 @@
       "pid": 541
     },
     {
-      "tid": 29,
+      "tid": 14,
       "name": "John Wall",
       "ratings": [
         {
@@ -114024,10 +115123,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 14,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        14
       ],
       "firstName": "John",
       "lastName": "Wall",
@@ -118221,7 +119365,7 @@
       "pid": 565
     },
     {
-      "tid": 21,
+      "tid": 27,
       "name": "Jonathan Isaac",
       "ratings": [
         {
@@ -118412,10 +119556,100 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        1,
+        27
       ],
       "firstName": "Jonathan",
       "lastName": "Isaac",
@@ -124202,7 +125436,7 @@
       "pid": 596
     },
     {
-      "tid": 21,
+      "tid": 1,
       "name": "Mohamed Bamba",
       "ratings": [
         {
@@ -124397,10 +125631,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        1
       ],
       "firstName": "Mohamed",
       "lastName": "Bamba",
@@ -124588,7 +125867,7 @@
       "pid": 598
     },
     {
-      "tid": 15,
+      "tid": 27,
       "name": "Bam Adebayo",
       "ratings": [
         {
@@ -124784,10 +126063,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        27
       ],
       "firstName": "Bam",
       "lastName": "Adebayo",
@@ -134835,7 +136159,7 @@
       "pid": 650
     },
     {
-      "tid": 15,
+      "tid": 29,
       "name": "Derrick Jones Jr.",
       "ratings": [
         {
@@ -135026,10 +136350,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        29
       ],
       "firstName": "Derrick",
       "lastName": "Jones Jr.",
@@ -150186,7 +151555,7 @@
       "pid": 730
     },
     {
-      "tid": 16,
+      "tid": 1,
       "name": "D.J. Wilson",
       "ratings": [
         {
@@ -150377,10 +151746,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 1,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        1
       ],
       "firstName": "D.J.",
       "lastName": "Wilson",
@@ -150615,7 +152029,7 @@
       "pid": 732
     },
     {
-      "tid": 14,
+      "tid": 29,
       "name": "Josh Jackson",
       "ratings": [
         {
@@ -150808,10 +152222,55 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        14
+        14,
+        29
       ],
       "firstName": "Josh",
       "lastName": "Jackson",
